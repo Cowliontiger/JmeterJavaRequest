@@ -1,0 +1,2 @@
+# JmeterJavaRequest
+使用Jmeter的JavaRequest模块进行接口测试，并且输出testng测试报告
